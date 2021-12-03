@@ -1,0 +1,1 @@
+export const stringToArray = (data) => data.split('\n')
